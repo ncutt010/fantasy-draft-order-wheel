@@ -21,6 +21,6 @@ yarn build
 
 ```
 
-User Innstructions:
+User Guide:
 TODO
 
