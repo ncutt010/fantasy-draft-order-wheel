@@ -1,4 +1,4 @@
-# fantasy sports drfat lottery wheel
+# fantasy sports draft lottery wheel
 
 Neat web application that allows fantasy leagues to determine draft order using a lottery wheel
 
